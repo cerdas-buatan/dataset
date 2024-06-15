@@ -5,3 +5,5 @@ hello
 hai
 cek
 dataset bersama
+
+kuy kerjain lagi, cuy kerjain jangan lupa ya
