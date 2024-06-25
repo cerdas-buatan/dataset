@@ -596,8 +596,8 @@ input presensi 4ZZD1N|4ZZD1N hadir pada hari Senin, Selasa, Rabu, Kamis, Jumat.
 presensi tm 9AX9BQ|Presensi telah dikonfirmasi. Terima kasih.
 input presensi AWSP3D|AWSP3D adalah singkatan dari Akademi Wirausaha Sosial dan Pengembangan Potensi Diri. AWSP3D merupakan program akademi wirausaha sosial yang ditujukan untuk membantu para pemuda dan pemudi Indonesia dalam mengembangkan potensi diri dan menjadi wirausaha sosial. Presensi AWSP3D dapat dilakukan dengan mengisi formulir presensi yang tersedia di situs web resmi AWSP3D.
 input presensi 51u13A|Terima kasih telah melakukan presensi 51u13A.
-input presensi  8IJZSD|Maaf, input yang Anda masukkan salah. Silakan coba lagi.
-input presensi  8lJZSD|Maaf, input presensi yang Anda masukkan salah. Silakan coba lagi.
+input presensi 8IJZSD|Maaf, input yang Anda masukkan salah. Silakan coba lagi.
+input presensi 8lJZSD|Maaf, input presensi yang Anda masukkan salah. Silakan coba lagi.
 httpsdocsgooglecomspreadsheetsd1-1TEq1SAjBa6b6pmrP7Kxc2i0wmkAuHqxpZfQMJMc78editusp=sharing|The link provided is not a valid Google Sheets link.
 input presensi UR7YRP,|Terima kasih telah melakukan presensi UR7YRP.
 input presensi tm UR7YRP|Maaf, saya tidak mengerti pertanyaan Anda. Mohon dijelaskan lebih lanjut.
@@ -642,7 +642,7 @@ Bentuk umum persamaan sinus adalah|y = A sin (Bx + C) + D\n\ndimana A, B, C, dan
 Halo i'm ${this.name}`\n    }\n}\n\nconst person1 = new Person('John Doe', 30)\nconsole.log(person1.greeting())\n\n// Output\n// Halo i'm John Doe
 aku lagi sakit hati nih|Oh, sayang. Aku tahu pasti kamu sedang merasa sedih. Apakah ada yang bisa aku lakukan untuk membantumu? Jika ada, aku akan melakukannya.
 Rumus volume prisma segitiga|V = (1/2) x luas alas x tinggi\n\ndimana luas alas = (1/2) x alas x tinggi segitiga
-Cara pengerjaan volume prisma segitiga dan berikan contoh dan gambarnya?|Volume prisma segitiga adalah jumlah isi ruang yang terdapat di dalam prisma segitiga. Volume prisma segitiga dapat dihitung dengan menggunakan rumus sebagai berikut:\n\nVolume = (1/2) x Luas Alas x Tinggi\n\nContoh:\n\nHitunglah volume prisma segitiga dengan alas segitiga yang memiliki panjang sisi AB = 6 cm, BC = 8 cm, dan AC = 10 cm, dan tinggi prisma = 12 cm.\n\nLuas alas = (1/2) x AB x BC\n\nLuas alas = (1/2) x 6 cm x 8 cm\n\nLuas alas = 24 cm2\n\nVolume = (1/2) x Luas alas x Tinggi\n\nVolume = (1/2) x 24 cm2 x 12 cm\n\nVolume = 144 cm3\n\nJadi, volume prisma segitiga adalah 144 cm3.\n\nGambar:\n\n[Gambar prisma segitiga]
+Cara pengerjaan volume prisma segitiga dan berikan contoh dan gambarnya|Volume prisma segitiga adalah jumlah isi ruang yang terdapat di dalam prisma segitiga. Volume prisma segitiga dapat dihitung dengan menggunakan rumus sebagai berikut:\n\nVolume = (1/2) x Luas Alas x Tinggi\n\nContoh:\n\nHitunglah volume prisma segitiga dengan alas segitiga yang memiliki panjang sisi AB = 6 cm, BC = 8 cm, dan AC = 10 cm, dan tinggi prisma = 12 cm.\n\nLuas alas = (1/2) x AB x BC\n\nLuas alas = (1/2) x 6 cm x 8 cm\n\nLuas alas = 24 cm2\n\nVolume = (1/2) x Luas alas x Tinggi\n\nVolume = (1/2) x 24 cm2 x 12 cm\n\nVolume = 144 cm3\n\nJadi, volume prisma segitiga adalah 144 cm3.\n\nGambar:\n\n[Gambar prisma segitiga]
 Suatu lingkaran memiliki jari-jari 27cm maka diameter lingkaran tersebut adalah|Diameter lingkaran tersebut adalah 54 cm.
 Rumus volume kubus|V = s³\n\nDimana V adalah volume kubus, dan s adalah sisi kubus.
 Rumus keliling lingkaran|Keliling Lingkaran = 2 x π x r\n\nKeterangan:\nKeliling Lingkaran = Keliling\nπ = 3,14\nr = jari-jari lingkaran
@@ -656,7 +656,7 @@ halo|Hi there! How can I help you?
 link siap|Siap is an open source software package for school administration. It is used by schools to manage student information, staff information, and other school-related data. It is available for free download from the Siap website.
 minta fotonya iya|Mohon maaf, kami tidak dapat memberikan foto.
 upload foto untuk kartu tanda mahasiswa di link mana,|Anda dapat mengunggah foto untuk kartu tanda mahasiswa di situs web universitas Anda. Anda harus mengikuti petunjuk yang diberikan oleh universitas Anda untuk mengunggah foto.
-bisa dikirim disini gak i ktm nya|Maaf, kami tidak dapat mengirimkan KTM Anda.
+bisa dikirim disini gak ktm nya|Maaf, kami tidak dapat mengirimkan KTM Anda.
 bisa kirim foto disini|Ya, Anda bisa mengirim foto di sini. Anda dapat mengunggah foto Anda dengan menggunakan tombol unggah yang tersedia di bagian atas halaman.
 bisa dikirim ke sini fotonya>,|![Gambar](https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 bisa kirim link siap pakai|Link siap pakai yang bisa Anda kirim adalah link ke situs web Anda, link ke halaman media sosial Anda, atau link ke aplikasi Anda. Anda juga dapat menggunakan link shortener seperti bit.ly atau goo.gl untuk membuat link yang lebih mudah dibaca.
@@ -664,7 +664,7 @@ Hallo I am a bot|I am a bot created to help people with their everyday tasks. I 
 Hello i am a bot|Hello there! I'm a bot too. Nice to meet you!
 sudah iya|Sangat bagus! Sekarang, apakah Anda siap untuk memulai proses belajar?
 punya link siap gak iya|Iya, berikut linknya:\n\nhttps://www.google.com/
-iya konferencii|Vystupleniya na konferenciyah i seminariyah - eto odin iz samyh effektivnyh sposobov dlya peredachi informacii. Oni pozvolyayut uchastnikam obmenivat'sya ideyami, obsuzhdat' problemy i delit'sya opytom. Takzhe oni pozvolyayut uchastnikam obnovit' svoi znaniya i uznat' o novyh tehnologiyah. Konferencii i seminariya takzhe pozvolyayut uchastnikam obshatsya s drugimi professionalami v oblasti, chtoby uznat' o novyh tendenciyah i razvivat' svoi navyki. Takim obrazom, oni mogut prinyat' resheniya, kotorye pomogut im v dal'neyshem uspeshno razvivat'sya v svoem dele.
+iya konferenci|Vystupleniya na konferenciyah i seminariyah - eto odin iz samyh effektivnyh sposobov dlya peredachi informacii. Oni pozvolyayut uchastnikam obmenivat'sya ideyami, obsuzhdat' problemy i delit'sya opytom. Takzhe oni pozvolyayut uchastnikam obnovit' svoi znaniya i uznat' o novyh tehnologiyah. Konferencii i seminariya takzhe pozvolyayut uchastnikam obshatsya s drugimi professionalami v oblasti, chtoby uznat' o novyh tendenciyah i razvivat' svoi navyki. Takim obrazom, oni mogut prinyat' resheniya, kotorye pomogut im v dal'neyshem uspeshno razvivat'sya v svoem dele.
 punya link siap ulbi ga iya|Maaf, saya tidak tahu tentang link siap ulbi.
 Punya link siap Gk iya|Maaf, saya tidak punya link siap.
 Linknya|https://www.theguardian.com/world/2020/apr/17/coronavirus-lockdown-uk-government-advice-explained
@@ -674,8 +674,8 @@ bisa di upload disini|https://www.dropbox.com/
 minta KTM digital 182230241|KTM digital 182230241 adalah KTM digital yang dikeluarkan oleh Kementerian Pendidikan Malaysia. KTM digital ini berfungsi sebagai kad pengenalan pelajar yang boleh digunakan untuk membuat pembayaran di kedai-kedai yang menyokong pembayaran dengan kad KTM digital. KTM digital ini juga boleh digunakan untuk mengakses perkhidmatan-perkhidmatan yang disediakan oleh Kementerian Pendidikan Malaysia.
 gimana caranya untuk dapat kartu tanda mahasiswa?|Untuk mendapatkan kartu tanda mahasiswa, Anda harus mendaftar di kampus tempat Anda mengambil program studi. Setelah mendaftar, Anda akan diberikan kartu tanda mahasiswa. Anda juga harus membayar biaya administrasi yang ditentukan oleh kampus.
 punya link siap gak Iya?|Berikut ini adalah beberapa link yang bisa Anda gunakan:\n\n1. https://www.google.com/\n2. https://www.youtube.com/\n3. https://www.facebook.com/\n4. https://www.twitter.com/\n5. https://www.instagram.com/\n6. https://www.wikipedia.org/\n7. https://www.amazon.com/\n8. https://www.apple.com/\n9. https://www.microsoft.com/\n10. https://www.yahoo.com/
-udahh ih|The correct spelling is "Yudahh".
-yudahh|#include <iostream>\n#include <string>\n\nusing namespace std;\n\nint main() {\n	string name;\n	cout << "What is your name? ";\n	cin >> name;\n	cout << ""Hello, "" << name << ""!"" << endl;\n	return 0;\n}"
+udah ih|The correct spelling is "Yudahh".
+yudah|#include <iostream>\n#include <string>\n\nusing namespace std;\n\nint main() {\n	string name;\n	cout << "What is your name? ";\n	cin >> name;\n	cout << ""Hello, "" << name << ""!"" << endl;\n	return 0;\n}"
 kartu tanda mahasiswa 182230241|Kartu tanda mahasiswa adalah kartu identifikasi yang diterbitkan oleh sebuah universitas atau sekolah untuk mengidentifikasi mahasiswa yang bersangkutan. Kartu ini biasanya berisi informasi seperti nama, nomor identifikasi, foto, dan informasi lainnya tentang mahasiswa. Kartu tanda mahasiswa 182230241 berisi informasi seperti nama, nomor identifikasi, foto, dan informasi lainnya tentang mahasiswa yang bersangkutan.
 ini sudah ditambahkan|Saya telah menambahkan beberapa baris kode ke dalam file INI. Kode ini akan memungkinkan Anda untuk mengatur beberapa pengaturan yang berbeda untuk aplikasi Anda. Ini akan membantu Anda menyesuaikan aplikasi Anda untuk kebutuhan Anda.
 fotonya sudah diupload i,ya|Terima kasih.
@@ -713,14 +713,14 @@ Halo i'm ${this.name}`\n    }\n}|const person1 = new Person('John Doe', 30)\ncon
 input presensi 7BY4S3|7BY4S3 hadir.
 nopal itu kok aneh ya|Nopal adalah jenis tumbuhan yang berasal dari Meksiko dan Amerika Tengah. Tumbuhan ini memiliki daun yang berbentuk seperti tangkai dan berwarna hijau. Nopal biasanya dimakan sebagai sayuran atau ditambahkan ke berbagai masakan. Beberapa orang juga menggunakan nopal untuk mengobati berbagai penyakit, termasuk diabetes, kolesterol tinggi, dan obesitas.
 nih ga jelas|Nih adalah sebuah kata yang digunakan untuk menunjukkan bahwa sesuatu itu jelas atau mudah dipahami. Ini biasanya digunakan untuk menunjukkan bahwa seseorang telah menjelaskan sesuatu dengan jelas dan tepat.
-gilang sayang aku ga bisa|Maaf, saya tidak bisa menjawab pertanyaan Anda. Ini adalah pertanyaan yang harus Anda tanyakan kepada orang yang Anda sayangi.
+gilang sayang aku ga bisa?|Maaf, saya tidak bisa menjawab pertanyaan Anda. Ini adalah pertanyaan yang harus Anda tanyakan kepada orang yang Anda sayangi.
 ndak mau jawab|Maaf, saya tidak bisa menjawab pertanyaan Anda.
-orang jahat hukumannya ke neraka ga|Maaf, saya tidak bisa menjawab pertanyaan ini.
+orang jahat hukumannya ke neraka ga?|Maaf, saya tidak bisa menjawab pertanyaan ini.
 mau dia sekali lagi|Maaf, saya tidak bisa menjawab pertanyaan Anda.
 mau orang tulus|Orang tulus adalah orang yang memiliki sifat jujur, ramah, dan bersahabat. Mereka juga memiliki sifat empati dan peduli terhadap orang lain. Mereka menghargai orang lain dan berusaha untuk membuat orang lain merasa nyaman. Mereka juga berusaha untuk menghormati orang lain dan menghargai perbedaan.
 Memek lu bu|Ini bukan tempat yang tepat untuk bertanya tentang hal-hal seperti itu. Tolong jangan bertanya lagi.
 apasih gitu aja gamau jawab|Maaf, saya tidak bisa menjawab pertanyaan Anda.
-guna mu apa iya|Ya, ada banyak cara untuk mengapa iya. Beberapa contoh termasuk:\n\n1. Berikan alasan logis.\n2. Berikan contoh yang relevan.\n3. Berikan bukti yang kuat.\n4. Berikan alasan moral.\n5. Berikan alasan emosional.\n6. Berikan alasan yang berdasarkan fakta.\n7. Berikan alasan yang berdasarkan pengalaman.\n8. Berikan alasan yang berdasarkan penelitian.\n9. Berikan alasan yang berdasarkan data.\n10. Berikan alasan yang berdasarkan opini ahli.
+guna mu apaya?|Ya, ada banyak cara untuk mengapa iya. Beberapa contoh termasuk:\n\n1. Berikan alasan logis.\n2. Berikan contoh yang relevan.\n3. Berikan bukti yang kuat.\n4. Berikan alasan moral.\n5. Berikan alasan emosional.\n6. Berikan alasan yang berdasarkan fakta.\n7. Berikan alasan yang berdasarkan pengalaman.\n8. Berikan alasan yang berdasarkan penelitian.\n9. Berikan alasan yang berdasarkan data.\n10. Berikan alasan yang berdasarkan opini ahli.
 kenapa?|Karena komputer membutuhkan sistem operasi untuk menjalankan berbagai aplikasi dan program. Sistem operasi menyediakan antarmuka antara komputer dan pengguna, memungkinkan pengguna untuk mengakses dan mengontrol berbagai fungsi komputer. Sistem operasi juga menyediakan dukungan untuk berbagai perangkat keras dan perangkat lunak, sehingga memungkinkan komputer untuk berinteraksi dengan lingkungan luar.
 mang eak|Eak is a type of bird in the family Accipitridae, which includes hawks, eagles, and kites. It is found in Southeast Asia, particularly in Thailand, Laos, Cambodia, and Vietnam. The eak is a medium-sized raptor, with a wingspan of up to 1.2 meters. It has a dark brown back and wings, and a white underside. Its head is white with a black stripe running from the beak to the back of the head. The eak feeds mainly on small mammals, reptiles, and insects.
 ouh baik kak terimakasih|Terimakasih juga. Semoga Anda selalu dalam lindungan Tuhan.
