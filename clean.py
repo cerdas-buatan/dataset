@@ -42,6 +42,6 @@ def preprocess_csv(input_file, output_file):
         print(f"Terjadi kesalahan: {e}")
 
 # Contoh penggunaan
-input_file = 'dataset_clean.csv'
-output_file = 'dataset_clean2.csv'
+input_file = 'dataset-a.csv'
+output_file = 'dataset_clean.csv'
 preprocess_csv(input_file, output_file)
